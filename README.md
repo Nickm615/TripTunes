@@ -11,6 +11,8 @@ Chris Noriega https://github.com/chris-noriega14
 
 ## Description
 
+Navigate to the live link [here] (https://jessicamcg.github.io/trip-tunes/)
+
 Upon initial page load the user is presented with an input form prompting the user to enter a start location and an end location.
 
 After the user enters their desired locations, another input form pops up for the user to enter an artist to center their playlist around.
